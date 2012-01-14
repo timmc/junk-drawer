@@ -1,0 +1,104 @@
+Compiled from "core.clj"
+public final class clj.core$_main extends clojure.lang.RestFn
+  SourceFile: "core.clj"
+  SourceDebugExtension: length = 0x4C
+   53 4D 41 50 0A 63 6F 72 65 2E 6A 61 76 61 0A 43
+   6C 6F 6A 75 72 65 0A 2A 53 20 43 6C 6F 6A 75 72
+   65 0A 2A 46 0A 2B 20 31 20 63 6F 72 65 2E 63 6C
+   6A 0A 63 6C 6A 2F 63 6F 72 65 2E 63 6C 6A 0A 2A
+   4C 0A 32 23 31 2C 34 3A 32 0A 2A 45 
+  minor version: 0
+  major version: 49
+  Constant pool:
+const #1 = Asciz	clj/core$_main;
+const #2 = class	#1;	//  clj/core$_main
+const #3 = Asciz	clojure/lang/RestFn;
+const #4 = class	#3;	//  clojure/lang/RestFn
+const #5 = Asciz	core.clj;
+const #6 = Asciz	<clinit>;
+const #7 = Asciz	()V;
+const #8 = Asciz	<init>;
+const #9 = NameAndType	#8:#7;//  "<init>":()V
+const #10 = Method	#4.#9;	//  clojure/lang/RestFn."<init>":()V
+const #11 = Asciz	doInvoke;
+const #12 = Asciz	(Ljava/lang/Object;)Ljava/lang/Object;;
+const #13 = Asciz	foobar;
+const #14 = String	#13;	//  foobar
+const #15 = Asciz	this;
+const #16 = Asciz	Ljava/lang/Object;;
+const #17 = Asciz	args;
+const #18 = Asciz	getRequiredArity;
+const #19 = Asciz	()I;
+const #20 = Asciz	Code;
+const #21 = Asciz	LineNumberTable;
+const #22 = Asciz	LocalVariableTable;
+const #23 = Asciz	SourceFile;
+const #24 = Asciz	SourceDebugExtension;
+
+{
+public static {};
+  Signature: ()V
+  LineNumberTable: 
+   line 4: 0
+
+
+
+  Code:
+   Stack=0, Locals=0, Args_size=0
+   0:	return
+  LineNumberTable: 
+   line 4: 0
+
+
+public clj.core$_main();
+  Signature: ()V
+  LineNumberTable: 
+   line 4: 0
+
+
+
+  Code:
+   Stack=1, Locals=1, Args_size=1
+   0:	aload_0
+   1:	invokespecial	#10; //Method clojure/lang/RestFn."<init>":()V
+   4:	return
+  LineNumberTable: 
+   line 4: 0
+
+
+public java.lang.Object doInvoke(java.lang.Object);
+  Signature: (Ljava/lang/Object;)Ljava/lang/Object;
+  LineNumberTable: 
+   line 4: 0
+
+  LocalVariableTable: 
+   Start  Length  Slot  Name   Signature
+   0      2      0    this       Ljava/lang/Object;
+   0      2      1    args       Ljava/lang/Object;
+
+
+  Code:
+   Stack=1, Locals=2, Args_size=2
+   0:	ldc	#14; //String foobar
+   2:	areturn
+  LocalVariableTable: 
+   Start  Length  Slot  Name   Signature
+   0      2      0    this       Ljava/lang/Object;
+   0      2      1    args       Ljava/lang/Object;
+
+  LineNumberTable: 
+   line 4: 0
+
+
+public int getRequiredArity();
+  Signature: ()I
+
+
+
+  Code:
+   Stack=1, Locals=1, Args_size=1
+   0:	iconst_0
+   1:	ireturn
+
+}
+

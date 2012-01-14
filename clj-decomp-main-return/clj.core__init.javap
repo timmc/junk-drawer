@@ -1,0 +1,444 @@
+public class clj.core__init extends java.lang.Object
+  minor version: 0
+  major version: 49
+  Constant pool:
+const #1 = Asciz	clj/core__init;
+const #2 = class	#1;	//  clj/core__init
+const #3 = Asciz	java/lang/Object;
+const #4 = class	#3;	//  java/lang/Object
+const #5 = Asciz	load;
+const #6 = Asciz	()V;
+const #7 = Asciz	const__1;
+const #8 = Asciz	Lclojure/lang/Var;;
+const #9 = NameAndType	#7:#8;//  const__1:Lclojure/lang/Var;
+const #10 = Field	#2.#9;	//  clj/core__init.const__1:Lclojure/lang/Var;
+const #11 = Asciz	clojure/lang/Var;
+const #12 = class	#11;	//  clojure/lang/Var
+const #13 = Asciz	getRawRoot;
+const #14 = Asciz	()Ljava/lang/Object;;
+const #15 = NameAndType	#13:#14;//  getRawRoot:()Ljava/lang/Object;
+const #16 = Method	#12.#15;	//  clojure/lang/Var.getRawRoot:()Ljava/lang/Object;
+const #17 = Asciz	clojure/lang/IFn;
+const #18 = class	#17;	//  clojure/lang/IFn
+const #19 = Asciz	const__2;
+const #20 = Asciz	Lclojure/lang/AFn;;
+const #21 = NameAndType	#19:#20;//  const__2:Lclojure/lang/AFn;
+const #22 = Field	#2.#21;	//  clj/core__init.const__2:Lclojure/lang/AFn;
+const #23 = Asciz	invoke;
+const #24 = Asciz	(Ljava/lang/Object;)Ljava/lang/Object;;
+const #25 = NameAndType	#23:#24;//  invoke:(Ljava/lang/Object;)Ljava/lang/Object;
+const #26 = InterfaceMethod	#18.#25;	//  clojure/lang/IFn.invoke:(Ljava/lang/Object;)Ljava/lang/Object;
+const #27 = Asciz	clj/core$loading__4505__auto__;
+const #28 = class	#27;	//  clj/core$loading__4505__auto__
+const #29 = Asciz	<init>;
+const #30 = NameAndType	#29:#6;//  "<init>":()V
+const #31 = Method	#28.#30;	//  clj/core$loading__4505__auto__."<init>":()V
+const #32 = NameAndType	#23:#14;//  invoke:()Ljava/lang/Object;
+const #33 = InterfaceMethod	#18.#32;	//  clojure/lang/IFn.invoke:()Ljava/lang/Object;
+const #34 = Asciz	const__6;
+const #35 = NameAndType	#34:#8;//  const__6:Lclojure/lang/Var;
+const #36 = Field	#2.#35;	//  clj/core__init.const__6:Lclojure/lang/Var;
+const #37 = Asciz	const__12;
+const #38 = NameAndType	#37:#20;//  const__12:Lclojure/lang/AFn;
+const #39 = Field	#2.#38;	//  clj/core__init.const__12:Lclojure/lang/AFn;
+const #40 = Asciz	clojure/lang/IPersistentMap;
+const #41 = class	#40;	//  clojure/lang/IPersistentMap
+const #42 = Asciz	setMeta;
+const #43 = Asciz	(Lclojure/lang/IPersistentMap;)V;
+const #44 = NameAndType	#42:#43;//  setMeta:(Lclojure/lang/IPersistentMap;)V
+const #45 = Method	#12.#44;	//  clojure/lang/Var.setMeta:(Lclojure/lang/IPersistentMap;)V
+const #46 = Asciz	clj/core$_main;
+const #47 = class	#46;	//  clj/core$_main
+const #48 = Method	#47.#30;	//  clj/core$_main."<init>":()V
+const #49 = Asciz	bindRoot;
+const #50 = Asciz	(Ljava/lang/Object;)V;
+const #51 = NameAndType	#49:#50;//  bindRoot:(Ljava/lang/Object;)V
+const #52 = Method	#12.#51;	//  clojure/lang/Var.bindRoot:(Ljava/lang/Object;)V
+const #53 = Asciz	const__0;
+const #54 = Asciz	const__3;
+const #55 = Asciz	const__4;
+const #56 = Asciz	const__5;
+const #57 = Asciz	const__7;
+const #58 = Asciz	Lclojure/lang/Keyword;;
+const #59 = Asciz	const__8;
+const #60 = Asciz	const__9;
+const #61 = Asciz	Ljava/lang/Object;;
+const #62 = Asciz	const__10;
+const #63 = Asciz	const__11;
+const #64 = Asciz	__init0;
+const #65 = Asciz	clojure.core;
+const #66 = String	#65;	//  clojure.core
+const #67 = Asciz	ns;
+const #68 = String	#67;	//  ns
+const #69 = Asciz	clojure/lang/RT;
+const #70 = class	#69;	//  clojure/lang/RT
+const #71 = Asciz	var;
+const #72 = Asciz	(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;;
+const #73 = NameAndType	#71:#72;//  var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+const #74 = Method	#70.#73;	//  clojure/lang/RT.var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+const #75 = NameAndType	#53:#8;//  const__0:Lclojure/lang/Var;
+const #76 = Field	#2.#75;	//  clj/core__init.const__0:Lclojure/lang/Var;
+const #77 = Asciz	in-ns;
+const #78 = String	#77;	//  in-ns
+const #79 = Asciz	clj.core;
+const #80 = String	#79;	//  clj.core
+const #81 = Asciz	clojure/lang/Symbol;
+const #82 = class	#81;	//  clojure/lang/Symbol
+const #83 = Asciz	intern;
+const #84 = Asciz	(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Symbol;;
+const #85 = NameAndType	#83:#84;//  intern:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Symbol;
+const #86 = Method	#82.#85;	//  clojure/lang/Symbol.intern:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Symbol;
+const #87 = Asciz	clojure/lang/AFn;
+const #88 = class	#87;	//  clojure/lang/AFn
+const #89 = Asciz	with-loading-context;
+const #90 = String	#89;	//  with-loading-context
+const #91 = NameAndType	#54:#8;//  const__3:Lclojure/lang/Var;
+const #92 = Field	#2.#91;	//  clj/core__init.const__3:Lclojure/lang/Var;
+const #93 = Asciz	fn;
+const #94 = String	#93;	//  fn
+const #95 = NameAndType	#55:#8;//  const__4:Lclojure/lang/Var;
+const #96 = Field	#2.#95;	//  clj/core__init.const__4:Lclojure/lang/Var;
+const #97 = Asciz	defn;
+const #98 = String	#97;	//  defn
+const #99 = NameAndType	#56:#8;//  const__5:Lclojure/lang/Var;
+const #100 = Field	#2.#99;	//  clj/core__init.const__5:Lclojure/lang/Var;
+const #101 = Asciz	-main;
+const #102 = String	#101;	//  -main
+const #103 = Asciz	file;
+const #104 = String	#103;	//  file
+const #105 = Asciz	keyword;
+const #106 = Asciz	(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Keyword;;
+const #107 = NameAndType	#105:#106;//  keyword:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Keyword;
+const #108 = Method	#70.#107;	//  clojure/lang/RT.keyword:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Keyword;
+const #109 = Asciz	clojure/lang/Keyword;
+const #110 = class	#109;	//  clojure/lang/Keyword
+const #111 = NameAndType	#57:#58;//  const__7:Lclojure/lang/Keyword;
+const #112 = Field	#2.#111;	//  clj/core__init.const__7:Lclojure/lang/Keyword;
+const #113 = Asciz	line;
+const #114 = String	#113;	//  line
+const #115 = NameAndType	#59:#58;//  const__8:Lclojure/lang/Keyword;
+const #116 = Field	#2.#115;	//  clj/core__init.const__8:Lclojure/lang/Keyword;
+const #117 = Asciz	java/lang/Integer;
+const #118 = class	#117;	//  java/lang/Integer
+const #119 = Asciz	valueOf;
+const #120 = Asciz	(I)Ljava/lang/Integer;;
+const #121 = NameAndType	#119:#120;//  valueOf:(I)Ljava/lang/Integer;
+const #122 = Method	#118.#121;	//  java/lang/Integer.valueOf:(I)Ljava/lang/Integer;
+const #123 = NameAndType	#60:#61;//  const__9:Ljava/lang/Object;
+const #124 = Field	#2.#123;	//  clj/core__init.const__9:Ljava/lang/Object;
+const #125 = Asciz	arglists;
+const #126 = String	#125;	//  arglists
+const #127 = NameAndType	#62:#58;//  const__10:Lclojure/lang/Keyword;
+const #128 = Field	#2.#127;	//  clj/core__init.const__10:Lclojure/lang/Keyword;
+const #129 = Asciz	&;
+const #130 = String	#129;	//  &
+const #131 = Asciz	args;
+const #132 = String	#131;	//  args
+const #133 = Asciz	vector;
+const #134 = Asciz	([Ljava/lang/Object;)Lclojure/lang/IPersistentVector;;
+const #135 = NameAndType	#133:#134;//  vector:([Ljava/lang/Object;)Lclojure/lang/IPersistentVector;
+const #136 = Method	#70.#135;	//  clojure/lang/RT.vector:([Ljava/lang/Object;)Lclojure/lang/IPersistentVector;
+const #137 = Asciz	java/util/Arrays;
+const #138 = class	#137;	//  java/util/Arrays
+const #139 = Asciz	asList;
+const #140 = Asciz	([Ljava/lang/Object;)Ljava/util/List;;
+const #141 = NameAndType	#139:#140;//  asList:([Ljava/lang/Object;)Ljava/util/List;
+const #142 = Method	#138.#141;	//  java/util/Arrays.asList:([Ljava/lang/Object;)Ljava/util/List;
+const #143 = Asciz	clojure/lang/PersistentList;
+const #144 = class	#143;	//  clojure/lang/PersistentList
+const #145 = Asciz	create;
+const #146 = Asciz	(Ljava/util/List;)Lclojure/lang/IPersistentList;;
+const #147 = NameAndType	#145:#146;//  create:(Ljava/util/List;)Lclojure/lang/IPersistentList;
+const #148 = Method	#144.#147;	//  clojure/lang/PersistentList.create:(Ljava/util/List;)Lclojure/lang/IPersistentList;
+const #149 = NameAndType	#63:#61;//  const__11:Ljava/lang/Object;
+const #150 = Field	#2.#149;	//  clj/core__init.const__11:Ljava/lang/Object;
+const #151 = Asciz	clj/core.clj;
+const #152 = String	#151;	//  clj/core.clj
+const #153 = Asciz	map;
+const #154 = Asciz	([Ljava/lang/Object;)Lclojure/lang/IPersistentMap;;
+const #155 = NameAndType	#153:#154;//  map:([Ljava/lang/Object;)Lclojure/lang/IPersistentMap;
+const #156 = Method	#70.#155;	//  clojure/lang/RT.map:([Ljava/lang/Object;)Lclojure/lang/IPersistentMap;
+const #157 = Asciz	<clinit>;
+const #158 = NameAndType	#64:#6;//  __init0:()V
+const #159 = Method	#2.#158;	//  clj/core__init.__init0:()V
+const #160 = Asciz	clj.core__init;
+const #161 = String	#160;	//  clj.core__init
+const #162 = Asciz	java/lang/Class;
+const #163 = class	#162;	//  java/lang/Class
+const #164 = Asciz	forName;
+const #165 = Asciz	(Ljava/lang/String;)Ljava/lang/Class;;
+const #166 = NameAndType	#164:#165;//  forName:(Ljava/lang/String;)Ljava/lang/Class;
+const #167 = Method	#163.#166;	//  java/lang/Class.forName:(Ljava/lang/String;)Ljava/lang/Class;
+const #168 = Asciz	getClassLoader;
+const #169 = Asciz	()Ljava/lang/ClassLoader;;
+const #170 = NameAndType	#168:#169;//  getClassLoader:()Ljava/lang/ClassLoader;
+const #171 = Method	#163.#170;	//  java/lang/Class.getClassLoader:()Ljava/lang/ClassLoader;
+const #172 = Asciz	clojure/lang/Compiler;
+const #173 = class	#172;	//  clojure/lang/Compiler
+const #174 = Asciz	pushNSandLoader;
+const #175 = Asciz	(Ljava/lang/ClassLoader;)V;
+const #176 = NameAndType	#174:#175;//  pushNSandLoader:(Ljava/lang/ClassLoader;)V
+const #177 = Method	#173.#176;	//  clojure/lang/Compiler.pushNSandLoader:(Ljava/lang/ClassLoader;)V
+const #178 = NameAndType	#5:#6;//  load:()V
+const #179 = Method	#2.#178;	//  clj/core__init.load:()V
+const #180 = Asciz	popThreadBindings;
+const #181 = NameAndType	#180:#6;//  popThreadBindings:()V
+const #182 = Method	#12.#181;	//  clojure/lang/Var.popThreadBindings:()V
+const #183 = Asciz	Code;
+const #184 = Asciz	LineNumberTable;
+
+{
+public static final clojure.lang.Var const__0;
+  Signature: Lclojure/lang/Var;
+
+
+public static final clojure.lang.Var const__1;
+  Signature: Lclojure/lang/Var;
+
+
+public static final clojure.lang.AFn const__2;
+  Signature: Lclojure/lang/AFn;
+
+
+public static final clojure.lang.Var const__3;
+  Signature: Lclojure/lang/Var;
+
+
+public static final clojure.lang.Var const__4;
+  Signature: Lclojure/lang/Var;
+
+
+public static final clojure.lang.Var const__5;
+  Signature: Lclojure/lang/Var;
+
+
+public static final clojure.lang.Var const__6;
+  Signature: Lclojure/lang/Var;
+
+
+public static final clojure.lang.Keyword const__7;
+  Signature: Lclojure/lang/Keyword;
+
+
+public static final clojure.lang.Keyword const__8;
+  Signature: Lclojure/lang/Keyword;
+
+
+public static final java.lang.Object const__9;
+  Signature: Ljava/lang/Object;
+
+
+public static final clojure.lang.Keyword const__10;
+  Signature: Lclojure/lang/Keyword;
+
+
+public static final java.lang.Object const__11;
+  Signature: Ljava/lang/Object;
+
+
+public static final clojure.lang.AFn const__12;
+  Signature: Lclojure/lang/AFn;
+
+
+public static void load();
+  Signature: ()V
+  LineNumberTable: 
+   line 1: 0
+   line 1: 17
+
+
+
+  Code:
+   Stack=6, Locals=0, Args_size=0
+   0:	getstatic	#10; //Field const__1:Lclojure/lang/Var;
+   3:	invokevirtual	#16; //Method clojure/lang/Var.getRawRoot:()Ljava/lang/Object;
+   6:	checkcast	#18; //class clojure/lang/IFn
+   9:	getstatic	#22; //Field const__2:Lclojure/lang/AFn;
+   12:	invokeinterface	#26,  2; //InterfaceMethod clojure/lang/IFn.invoke:(Ljava/lang/Object;)Ljava/lang/Object;
+   17:	new	#28; //class clj/core$loading__4505__auto__
+   20:	dup
+   21:	invokespecial	#31; //Method clj/core$loading__4505__auto__."<init>":()V
+   24:	checkcast	#18; //class clojure/lang/IFn
+   27:	invokeinterface	#33,  1; //InterfaceMethod clojure/lang/IFn.invoke:()Ljava/lang/Object;
+   32:	getstatic	#36; //Field const__6:Lclojure/lang/Var;
+   35:	dup
+   36:	getstatic	#39; //Field const__12:Lclojure/lang/AFn;
+   39:	checkcast	#41; //class clojure/lang/IPersistentMap
+   42:	invokevirtual	#45; //Method clojure/lang/Var.setMeta:(Lclojure/lang/IPersistentMap;)V
+   45:	dup
+   46:	new	#47; //class clj/core$_main
+   49:	dup
+   50:	invokespecial	#48; //Method clj/core$_main."<init>":()V
+   53:	invokevirtual	#52; //Method clojure/lang/Var.bindRoot:(Ljava/lang/Object;)V
+   56:	return
+  LineNumberTable: 
+   line 1: 0
+   line 1: 17
+
+
+public static void __init0();
+  Signature: ()V
+
+
+
+  Code:
+   Stack=11, Locals=0, Args_size=0
+   0:	ldc	#66; //String clojure.core
+   2:	ldc	#68; //String ns
+   4:	invokestatic	#74; //Method clojure/lang/RT.var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   7:	checkcast	#12; //class clojure/lang/Var
+   10:	putstatic	#76; //Field const__0:Lclojure/lang/Var;
+   13:	ldc	#66; //String clojure.core
+   15:	ldc	#78; //String in-ns
+   17:	invokestatic	#74; //Method clojure/lang/RT.var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   20:	checkcast	#12; //class clojure/lang/Var
+   23:	putstatic	#10; //Field const__1:Lclojure/lang/Var;
+   26:	aconst_null
+   27:	ldc	#80; //String clj.core
+   29:	invokestatic	#86; //Method clojure/lang/Symbol.intern:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Symbol;
+   32:	checkcast	#88; //class clojure/lang/AFn
+   35:	putstatic	#22; //Field const__2:Lclojure/lang/AFn;
+   38:	ldc	#66; //String clojure.core
+   40:	ldc	#90; //String with-loading-context
+   42:	invokestatic	#74; //Method clojure/lang/RT.var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   45:	checkcast	#12; //class clojure/lang/Var
+   48:	putstatic	#92; //Field const__3:Lclojure/lang/Var;
+   51:	ldc	#66; //String clojure.core
+   53:	ldc	#94; //String fn
+   55:	invokestatic	#74; //Method clojure/lang/RT.var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   58:	checkcast	#12; //class clojure/lang/Var
+   61:	putstatic	#96; //Field const__4:Lclojure/lang/Var;
+   64:	ldc	#66; //String clojure.core
+   66:	ldc	#98; //String defn
+   68:	invokestatic	#74; //Method clojure/lang/RT.var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   71:	checkcast	#12; //class clojure/lang/Var
+   74:	putstatic	#100; //Field const__5:Lclojure/lang/Var;
+   77:	ldc	#80; //String clj.core
+   79:	ldc	#102; //String -main
+   81:	invokestatic	#74; //Method clojure/lang/RT.var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   84:	checkcast	#12; //class clojure/lang/Var
+   87:	putstatic	#36; //Field const__6:Lclojure/lang/Var;
+   90:	aconst_null
+   91:	ldc	#104; //String file
+   93:	invokestatic	#108; //Method clojure/lang/RT.keyword:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Keyword;
+   96:	checkcast	#110; //class clojure/lang/Keyword
+   99:	putstatic	#112; //Field const__7:Lclojure/lang/Keyword;
+   102:	aconst_null
+   103:	ldc	#114; //String line
+   105:	invokestatic	#108; //Method clojure/lang/RT.keyword:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Keyword;
+   108:	checkcast	#110; //class clojure/lang/Keyword
+   111:	putstatic	#116; //Field const__8:Lclojure/lang/Keyword;
+   114:	iconst_4
+   115:	invokestatic	#122; //Method java/lang/Integer.valueOf:(I)Ljava/lang/Integer;
+   118:	putstatic	#124; //Field const__9:Ljava/lang/Object;
+   121:	aconst_null
+   122:	ldc	#126; //String arglists
+   124:	invokestatic	#108; //Method clojure/lang/RT.keyword:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Keyword;
+   127:	checkcast	#110; //class clojure/lang/Keyword
+   130:	putstatic	#128; //Field const__10:Lclojure/lang/Keyword;
+   133:	iconst_1
+   134:	anewarray	#4; //class java/lang/Object
+   137:	dup
+   138:	iconst_0
+   139:	iconst_2
+   140:	anewarray	#4; //class java/lang/Object
+   143:	dup
+   144:	iconst_0
+   145:	aconst_null
+   146:	ldc	#130; //String &
+   148:	invokestatic	#86; //Method clojure/lang/Symbol.intern:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Symbol;
+   151:	aastore
+   152:	dup
+   153:	iconst_1
+   154:	aconst_null
+   155:	ldc	#132; //String args
+   157:	invokestatic	#86; //Method clojure/lang/Symbol.intern:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Symbol;
+   160:	aastore
+   161:	invokestatic	#136; //Method clojure/lang/RT.vector:([Ljava/lang/Object;)Lclojure/lang/IPersistentVector;
+   164:	aastore
+   165:	invokestatic	#142; //Method java/util/Arrays.asList:([Ljava/lang/Object;)Ljava/util/List;
+   168:	invokestatic	#148; //Method clojure/lang/PersistentList.create:(Ljava/util/List;)Lclojure/lang/IPersistentList;
+   171:	putstatic	#150; //Field const__11:Ljava/lang/Object;
+   174:	bipush	6
+   176:	anewarray	#4; //class java/lang/Object
+   179:	dup
+   180:	iconst_0
+   181:	aconst_null
+   182:	ldc	#126; //String arglists
+   184:	invokestatic	#108; //Method clojure/lang/RT.keyword:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Keyword;
+   187:	aastore
+   188:	dup
+   189:	iconst_1
+   190:	iconst_1
+   191:	anewarray	#4; //class java/lang/Object
+   194:	dup
+   195:	iconst_0
+   196:	iconst_2
+   197:	anewarray	#4; //class java/lang/Object
+   200:	dup
+   201:	iconst_0
+   202:	aconst_null
+   203:	ldc	#130; //String &
+   205:	invokestatic	#86; //Method clojure/lang/Symbol.intern:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Symbol;
+   208:	aastore
+   209:	dup
+   210:	iconst_1
+   211:	aconst_null
+   212:	ldc	#132; //String args
+   214:	invokestatic	#86; //Method clojure/lang/Symbol.intern:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Symbol;
+   217:	aastore
+   218:	invokestatic	#136; //Method clojure/lang/RT.vector:([Ljava/lang/Object;)Lclojure/lang/IPersistentVector;
+   221:	aastore
+   222:	invokestatic	#142; //Method java/util/Arrays.asList:([Ljava/lang/Object;)Ljava/util/List;
+   225:	invokestatic	#148; //Method clojure/lang/PersistentList.create:(Ljava/util/List;)Lclojure/lang/IPersistentList;
+   228:	aastore
+   229:	dup
+   230:	iconst_2
+   231:	aconst_null
+   232:	ldc	#114; //String line
+   234:	invokestatic	#108; //Method clojure/lang/RT.keyword:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Keyword;
+   237:	aastore
+   238:	dup
+   239:	iconst_3
+   240:	iconst_4
+   241:	invokestatic	#122; //Method java/lang/Integer.valueOf:(I)Ljava/lang/Integer;
+   244:	aastore
+   245:	dup
+   246:	iconst_4
+   247:	aconst_null
+   248:	ldc	#104; //String file
+   250:	invokestatic	#108; //Method clojure/lang/RT.keyword:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Keyword;
+   253:	aastore
+   254:	dup
+   255:	iconst_5
+   256:	ldc	#152; //String clj/core.clj
+   258:	aastore
+   259:	invokestatic	#156; //Method clojure/lang/RT.map:([Ljava/lang/Object;)Lclojure/lang/IPersistentMap;
+   262:	checkcast	#88; //class clojure/lang/AFn
+   265:	putstatic	#39; //Field const__12:Lclojure/lang/AFn;
+   268:	return
+
+public static {};
+  Signature: ()V
+
+
+
+  Code:
+   Stack=1, Locals=0, Args_size=0
+   0:	invokestatic	#159; //Method __init0:()V
+   3:	ldc	#161; //String clj.core__init
+   5:	invokestatic	#167; //Method java/lang/Class.forName:(Ljava/lang/String;)Ljava/lang/Class;
+   8:	invokevirtual	#171; //Method java/lang/Class.getClassLoader:()Ljava/lang/ClassLoader;
+   11:	invokestatic	#177; //Method clojure/lang/Compiler.pushNSandLoader:(Ljava/lang/ClassLoader;)V
+   14:	invokestatic	#179; //Method load:()V
+   17:	invokestatic	#182; //Method clojure/lang/Var.popThreadBindings:()V
+   20:	goto	27
+   23:	invokestatic	#182; //Method clojure/lang/Var.popThreadBindings:()V
+   26:	athrow
+   27:	return
+  Exception table:
+   from   to  target type
+    14    17    23   any
+
+}
+

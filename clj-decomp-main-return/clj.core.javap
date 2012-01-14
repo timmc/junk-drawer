@@ -1,0 +1,331 @@
+public class clj.core extends java.lang.Object
+  minor version: 0
+  major version: 49
+  Constant pool:
+const #1 = Asciz	clj/core;
+const #2 = class	#1;	//  clj/core
+const #3 = Asciz	java/lang/Object;
+const #4 = class	#3;	//  java/lang/Object
+const #5 = Asciz	main__var;
+const #6 = Asciz	Lclojure/lang/Var;;
+const #7 = Asciz	equals__var;
+const #8 = Asciz	toString__var;
+const #9 = Asciz	hashCode__var;
+const #10 = Asciz	clone__var;
+const #11 = Asciz	<clinit>;
+const #12 = Asciz	()V;
+const #13 = Asciz	clj.core;
+const #14 = String	#13;	//  clj.core
+const #15 = Asciz	-main;
+const #16 = String	#15;	//  -main
+const #17 = Asciz	clojure/lang/Var;
+const #18 = class	#17;	//  clojure/lang/Var
+const #19 = Asciz	internPrivate;
+const #20 = Asciz	(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;;
+const #21 = NameAndType	#19:#20;//  internPrivate:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+const #22 = Method	#18.#21;	//  clojure/lang/Var.internPrivate:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+const #23 = NameAndType	#5:#6;//  main__var:Lclojure/lang/Var;
+const #24 = Field	#2.#23;	//  clj/core.main__var:Lclojure/lang/Var;
+const #25 = Asciz	-equals;
+const #26 = String	#25;	//  -equals
+const #27 = NameAndType	#7:#6;//  equals__var:Lclojure/lang/Var;
+const #28 = Field	#2.#27;	//  clj/core.equals__var:Lclojure/lang/Var;
+const #29 = Asciz	-toString;
+const #30 = String	#29;	//  -toString
+const #31 = NameAndType	#8:#6;//  toString__var:Lclojure/lang/Var;
+const #32 = Field	#2.#31;	//  clj/core.toString__var:Lclojure/lang/Var;
+const #33 = Asciz	-hashCode;
+const #34 = String	#33;	//  -hashCode
+const #35 = NameAndType	#9:#6;//  hashCode__var:Lclojure/lang/Var;
+const #36 = Field	#2.#35;	//  clj/core.hashCode__var:Lclojure/lang/Var;
+const #37 = Asciz	-clone;
+const #38 = String	#37;	//  -clone
+const #39 = NameAndType	#10:#6;//  clone__var:Lclojure/lang/Var;
+const #40 = Field	#2.#39;	//  clj/core.clone__var:Lclojure/lang/Var;
+const #41 = Asciz	clojure.core;
+const #42 = String	#41;	//  clojure.core
+const #43 = Asciz	load;
+const #44 = String	#43;	//  load
+const #45 = Asciz	clojure/lang/RT;
+const #46 = class	#45;	//  clojure/lang/RT
+const #47 = Asciz	var;
+const #48 = NameAndType	#47:#20;//  var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+const #49 = Method	#46.#48;	//  clojure/lang/RT.var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+const #50 = Asciz	/clj/core;
+const #51 = String	#50;	//  /clj/core
+const #52 = Asciz	clojure/lang/IFn;
+const #53 = class	#52;	//  clojure/lang/IFn
+const #54 = Asciz	invoke;
+const #55 = Asciz	(Ljava/lang/Object;)Ljava/lang/Object;;
+const #56 = NameAndType	#54:#55;//  invoke:(Ljava/lang/Object;)Ljava/lang/Object;
+const #57 = InterfaceMethod	#53.#56;	//  clojure/lang/IFn.invoke:(Ljava/lang/Object;)Ljava/lang/Object;
+const #58 = Asciz	<init>;
+const #59 = NameAndType	#58:#12;//  "<init>":()V
+const #60 = Method	#4.#59;	//  java/lang/Object."<init>":()V
+const #61 = Asciz	clone;
+const #62 = Asciz	()Ljava/lang/Object;;
+const #63 = Asciz	isBound;
+const #64 = Asciz	()Z;
+const #65 = NameAndType	#63:#64;//  isBound:()Z
+const #66 = Method	#18.#65;	//  clojure/lang/Var.isBound:()Z
+const #67 = Asciz	get;
+const #68 = NameAndType	#67:#62;//  get:()Ljava/lang/Object;
+const #69 = Method	#18.#68;	//  clojure/lang/Var.get:()Ljava/lang/Object;
+const #70 = NameAndType	#61:#62;//  clone:()Ljava/lang/Object;
+const #71 = Method	#4.#70;	//  java/lang/Object.clone:()Ljava/lang/Object;
+const #72 = Asciz	hashCode;
+const #73 = Asciz	()I;
+const #74 = Asciz	java/lang/Number;
+const #75 = class	#74;	//  java/lang/Number
+const #76 = Asciz	intValue;
+const #77 = NameAndType	#76:#73;//  intValue:()I
+const #78 = Method	#75.#77;	//  java/lang/Number.intValue:()I
+const #79 = NameAndType	#72:#73;//  hashCode:()I
+const #80 = Method	#4.#79;	//  java/lang/Object.hashCode:()I
+const #81 = Asciz	toString;
+const #82 = Asciz	()Ljava/lang/String;;
+const #83 = Asciz	java/lang/String;
+const #84 = class	#83;	//  java/lang/String
+const #85 = NameAndType	#81:#82;//  toString:()Ljava/lang/String;
+const #86 = Method	#4.#85;	//  java/lang/Object.toString:()Ljava/lang/String;
+const #87 = Asciz	equals;
+const #88 = Asciz	(Ljava/lang/Object;)Z;
+const #89 = Asciz	(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;;
+const #90 = NameAndType	#54:#89;//  invoke:(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+const #91 = InterfaceMethod	#53.#90;	//  clojure/lang/IFn.invoke:(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+const #92 = Asciz	java/lang/Boolean;
+const #93 = class	#92;	//  java/lang/Boolean
+const #94 = Asciz	booleanValue;
+const #95 = NameAndType	#94:#64;//  booleanValue:()Z
+const #96 = Method	#93.#95;	//  java/lang/Boolean.booleanValue:()Z
+const #97 = NameAndType	#87:#88;//  equals:(Ljava/lang/Object;)Z
+const #98 = Method	#4.#97;	//  java/lang/Object.equals:(Ljava/lang/Object;)Z
+const #99 = Asciz	main;
+const #100 = Asciz	([Ljava/lang/String;)V;
+const #101 = Asciz	seq;
+const #102 = Asciz	(Ljava/lang/Object;)Lclojure/lang/ISeq;;
+const #103 = NameAndType	#101:#102;//  seq:(Ljava/lang/Object;)Lclojure/lang/ISeq;
+const #104 = Method	#46.#103;	//  clojure/lang/RT.seq:(Ljava/lang/Object;)Lclojure/lang/ISeq;
+const #105 = Asciz	applyTo;
+const #106 = Asciz	(Lclojure/lang/ISeq;)Ljava/lang/Object;;
+const #107 = NameAndType	#105:#106;//  applyTo:(Lclojure/lang/ISeq;)Ljava/lang/Object;
+const #108 = InterfaceMethod	#53.#107;	//  clojure/lang/IFn.applyTo:(Lclojure/lang/ISeq;)Ljava/lang/Object;
+const #109 = Asciz	java/lang/UnsupportedOperationException;
+const #110 = class	#109;	//  java/lang/UnsupportedOperationException
+const #111 = Asciz	clj.core/-main not defined;
+const #112 = String	#111;	//  clj.core/-main not defined
+const #113 = Asciz	(Ljava/lang/String;)V;
+const #114 = NameAndType	#58:#113;//  "<init>":(Ljava/lang/String;)V
+const #115 = Method	#110.#114;	//  java/lang/UnsupportedOperationException."<init>":(Ljava/lang/String;)V
+const #116 = Asciz	Code;
+
+{
+private static final clojure.lang.Var main__var;
+  Signature: Lclojure/lang/Var;
+
+
+private static final clojure.lang.Var equals__var;
+  Signature: Lclojure/lang/Var;
+
+
+private static final clojure.lang.Var toString__var;
+  Signature: Lclojure/lang/Var;
+
+
+private static final clojure.lang.Var hashCode__var;
+  Signature: Lclojure/lang/Var;
+
+
+private static final clojure.lang.Var clone__var;
+  Signature: Lclojure/lang/Var;
+
+
+public static {};
+  Signature: ()V
+
+
+
+  Code:
+   Stack=2, Locals=0, Args_size=0
+   0:	ldc	#14; //String clj.core
+   2:	ldc	#16; //String -main
+   4:	invokestatic	#22; //Method clojure/lang/Var.internPrivate:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   7:	putstatic	#24; //Field main__var:Lclojure/lang/Var;
+   10:	ldc	#14; //String clj.core
+   12:	ldc	#26; //String -equals
+   14:	invokestatic	#22; //Method clojure/lang/Var.internPrivate:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   17:	putstatic	#28; //Field equals__var:Lclojure/lang/Var;
+   20:	ldc	#14; //String clj.core
+   22:	ldc	#30; //String -toString
+   24:	invokestatic	#22; //Method clojure/lang/Var.internPrivate:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   27:	putstatic	#32; //Field toString__var:Lclojure/lang/Var;
+   30:	ldc	#14; //String clj.core
+   32:	ldc	#34; //String -hashCode
+   34:	invokestatic	#22; //Method clojure/lang/Var.internPrivate:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   37:	putstatic	#36; //Field hashCode__var:Lclojure/lang/Var;
+   40:	ldc	#14; //String clj.core
+   42:	ldc	#38; //String -clone
+   44:	invokestatic	#22; //Method clojure/lang/Var.internPrivate:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   47:	putstatic	#40; //Field clone__var:Lclojure/lang/Var;
+   50:	ldc	#42; //String clojure.core
+   52:	ldc	#44; //String load
+   54:	invokestatic	#49; //Method clojure/lang/RT.var:(Ljava/lang/String;Ljava/lang/String;)Lclojure/lang/Var;
+   57:	ldc	#51; //String /clj/core
+   59:	invokeinterface	#57,  2; //InterfaceMethod clojure/lang/IFn.invoke:(Ljava/lang/Object;)Ljava/lang/Object;
+   64:	pop
+   65:	return
+
+public clj.core();
+  Signature: ()V
+
+
+
+  Code:
+   Stack=1, Locals=1, Args_size=1
+   0:	aload_0
+   1:	invokespecial	#60; //Method java/lang/Object."<init>":()V
+   4:	return
+
+public java.lang.Object clone();
+  Signature: ()Ljava/lang/Object;
+
+
+
+  Code:
+   Stack=2, Locals=1, Args_size=1
+   0:	getstatic	#40; //Field clone__var:Lclojure/lang/Var;
+   3:	dup
+   4:	invokevirtual	#66; //Method clojure/lang/Var.isBound:()Z
+   7:	ifeq	16
+   10:	invokevirtual	#69; //Method clojure/lang/Var.get:()Ljava/lang/Object;
+   13:	goto	18
+   16:	pop
+   17:	aconst_null
+   18:	dup
+   19:	ifnull	34
+   22:	checkcast	#53; //class clojure/lang/IFn
+   25:	aload_0
+   26:	invokeinterface	#57,  2; //InterfaceMethod clojure/lang/IFn.invoke:(Ljava/lang/Object;)Ljava/lang/Object;
+   31:	goto	39
+   34:	pop
+   35:	aload_0
+   36:	invokespecial	#71; //Method java/lang/Object.clone:()Ljava/lang/Object;
+   39:	areturn
+
+public int hashCode();
+  Signature: ()I
+
+
+
+  Code:
+   Stack=2, Locals=1, Args_size=1
+   0:	getstatic	#36; //Field hashCode__var:Lclojure/lang/Var;
+   3:	dup
+   4:	invokevirtual	#66; //Method clojure/lang/Var.isBound:()Z
+   7:	ifeq	16
+   10:	invokevirtual	#69; //Method clojure/lang/Var.get:()Ljava/lang/Object;
+   13:	goto	18
+   16:	pop
+   17:	aconst_null
+   18:	dup
+   19:	ifnull	40
+   22:	checkcast	#53; //class clojure/lang/IFn
+   25:	aload_0
+   26:	invokeinterface	#57,  2; //InterfaceMethod clojure/lang/IFn.invoke:(Ljava/lang/Object;)Ljava/lang/Object;
+   31:	checkcast	#75; //class java/lang/Number
+   34:	invokevirtual	#78; //Method java/lang/Number.intValue:()I
+   37:	goto	45
+   40:	pop
+   41:	aload_0
+   42:	invokespecial	#80; //Method java/lang/Object.hashCode:()I
+   45:	ireturn
+
+public java.lang.String toString();
+  Signature: ()Ljava/lang/String;
+
+
+
+  Code:
+   Stack=2, Locals=1, Args_size=1
+   0:	getstatic	#32; //Field toString__var:Lclojure/lang/Var;
+   3:	dup
+   4:	invokevirtual	#66; //Method clojure/lang/Var.isBound:()Z
+   7:	ifeq	16
+   10:	invokevirtual	#69; //Method clojure/lang/Var.get:()Ljava/lang/Object;
+   13:	goto	18
+   16:	pop
+   17:	aconst_null
+   18:	dup
+   19:	ifnull	37
+   22:	checkcast	#53; //class clojure/lang/IFn
+   25:	aload_0
+   26:	invokeinterface	#57,  2; //InterfaceMethod clojure/lang/IFn.invoke:(Ljava/lang/Object;)Ljava/lang/Object;
+   31:	checkcast	#84; //class java/lang/String
+   34:	goto	42
+   37:	pop
+   38:	aload_0
+   39:	invokespecial	#86; //Method java/lang/Object.toString:()Ljava/lang/String;
+   42:	areturn
+
+public boolean equals(java.lang.Object);
+  Signature: (Ljava/lang/Object;)Z
+
+
+
+  Code:
+   Stack=3, Locals=2, Args_size=2
+   0:	getstatic	#28; //Field equals__var:Lclojure/lang/Var;
+   3:	dup
+   4:	invokevirtual	#66; //Method clojure/lang/Var.isBound:()Z
+   7:	ifeq	16
+   10:	invokevirtual	#69; //Method clojure/lang/Var.get:()Ljava/lang/Object;
+   13:	goto	18
+   16:	pop
+   17:	aconst_null
+   18:	dup
+   19:	ifnull	41
+   22:	checkcast	#53; //class clojure/lang/IFn
+   25:	aload_0
+   26:	aload_1
+   27:	invokeinterface	#91,  3; //InterfaceMethod clojure/lang/IFn.invoke:(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+   32:	checkcast	#93; //class java/lang/Boolean
+   35:	invokevirtual	#96; //Method java/lang/Boolean.booleanValue:()Z
+   38:	goto	47
+   41:	pop
+   42:	aload_0
+   43:	aload_1
+   44:	invokespecial	#98; //Method java/lang/Object.equals:(Ljava/lang/Object;)Z
+   47:	ireturn
+
+public static void main(java.lang.String[]);
+  Signature: ([Ljava/lang/String;)V
+
+
+
+  Code:
+   Stack=4, Locals=1, Args_size=1
+   0:	getstatic	#24; //Field main__var:Lclojure/lang/Var;
+   3:	dup
+   4:	invokevirtual	#66; //Method clojure/lang/Var.isBound:()Z
+   7:	ifeq	16
+   10:	invokevirtual	#69; //Method clojure/lang/Var.get:()Ljava/lang/Object;
+   13:	goto	18
+   16:	pop
+   17:	aconst_null
+   18:	dup
+   19:	ifnull	38
+   22:	checkcast	#53; //class clojure/lang/IFn
+   25:	aload_0
+   26:	invokestatic	#104; //Method clojure/lang/RT.seq:(Ljava/lang/Object;)Lclojure/lang/ISeq;
+   29:	invokeinterface	#108,  2; //InterfaceMethod clojure/lang/IFn.applyTo:(Lclojure/lang/ISeq;)Ljava/lang/Object;
+   34:	pop
+   35:	goto	48
+   38:	new	#110; //class java/lang/UnsupportedOperationException
+   41:	dup
+   42:	ldc	#112; //String clj.core/-main not defined
+   44:	invokespecial	#115; //Method java/lang/UnsupportedOperationException."<init>":(Ljava/lang/String;)V
+   47:	athrow
+   48:	return
+
+}
+
